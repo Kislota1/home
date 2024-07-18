@@ -5,7 +5,7 @@ def to_uppercase():
 
 def capitalize_words():
     """
-    Меняет пеырвые две буквы в слове на заглавные.
+    Меняет пеырвasdasdые две буквы в слове на заглавные.
     """
     input_string = input("Введите текст: ")
     words = input_string.split()
